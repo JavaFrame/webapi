@@ -1,0 +1,7 @@
+targetSoPath=/data/applogs/pigeon/pigeon.pigeon-demo-1.log.2022-03-03.log
+targetIP=192.168.6.131
+targetPORT=7953
+localHttpPORT=8080
+localSoUrl=http://192.168.6.131:8080/s3_agent
+localHttpUrl=http://192.168.6.131:8080/
+localRMURL=http://192.168.6.131:8080/:UserManagerAD0
